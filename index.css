@@ -1,0 +1,60 @@
+*{
+    background-color: black;
+}
+
+span{
+    color: white;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.greetings{
+    margin-top: 15%;
+    padding-left:21%;
+    font-size: 40px;
+}
+
+.description{
+    padding-left: 35%;
+}
+
+#invisible{
+    color: black;
+}
+
+button{
+    height: 50%;
+    width: 50%;
+}
+
+#flowers{
+background-color: white;
+border: none;
+text-align: center;
+text-decoration: none;
+border-radius: 8px;
+height: 40px;
+width: 600px;
+margin-left: 29%;
+}
+
+#card{
+    background-color: white;
+border: none;
+text-align: center;
+text-decoration: none;
+border-radius: 8px;
+height: 40px;
+width: 600px;
+margin-left: 29%;
+}
+
+button a{
+    background-color: white;
+    color: black;
+}
